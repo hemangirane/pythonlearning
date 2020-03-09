@@ -1,6 +1,6 @@
-#1. Write a Python program to print the
+# 1. Write a Python program to print the
 # following string in a specific format
-#Sample String : "Twinkle, twinkle, little star,
+# Sample String : "Twinkle, twinkle, little star,
 # How I wonder what you are! Up above the world so high,
 # Like a diamond in the sky. Twinkle, twinkle, little star,
 # How I wonder what you are"
@@ -21,4 +21,3 @@ print("Hello {}. You have {} task to finish today."
 data = (name, tasks)
 print("Hello {0}. You have {1} task to finish today."
       .format(data))
-
